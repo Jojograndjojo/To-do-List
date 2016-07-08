@@ -6,7 +6,7 @@
     this.completedTasks = [];
   };
 
-  TaskManager.prototype = {
+  TaskManager.prototype= {
     addTask: function(task){
       this.pendingTasks.push(task);
     },
