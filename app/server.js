@@ -26,4 +26,13 @@ function simpleResponse(request, response) {
 
 server.listen(serverPort, function() {
 	console.log('IT MIGHT BE WORKING?');
+
+console.log(" \\");
+console.log("  \\ji");
+console.log(" /.(((");
+console.log("(,/'(((__,--.");
+console.log("    \\  ) _( /{");
+console.log("    !|| ' :|| ");
+console.log("    !||   :|| ");
+console.log("    '''   ''' ");
 });
